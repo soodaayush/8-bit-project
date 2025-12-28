@@ -1,6 +1,6 @@
 # 8-Bit Project
 
-![8bit-computer](https://github.com/user-attachments/assets/1d2e3fc5-06de-4ce0-973f-8dd1edc25fda)
+![IMG_0529](https://github.com/user-attachments/assets/e887578e-5a13-44ca-ae21-6e9a714924b3)
 
 # 8-Bit Instructions
 
