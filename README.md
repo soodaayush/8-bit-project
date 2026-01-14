@@ -2,6 +2,8 @@
 
 ![IMG_0529](https://github.com/user-attachments/assets/e887578e-5a13-44ca-ae21-6e9a714924b3)
 
+https://github.com/user-attachments/assets/b65312f9-82c9-43e1-8022-db2bb1c9475b
+
 # 8-Bit Instructions
 
 ## Ben Eater 8-Bit Computer Instructions Overview
